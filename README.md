@@ -36,6 +36,7 @@ Hi 👋, I'm Rohith Kumar, a passionate JavaScript fullstack developer.
 - maplibre-gl
 - mapbox
 - openstreetmap
+- vitejs
 
 ## License
 

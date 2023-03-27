@@ -4,8 +4,9 @@
   color: #fff;
   font-family: monospace;
   left: 0;
-  margin: 80px 0px 0px 12px;
-  padding: 6px 12px;
+  margin: 15px 0px 0px 120px;
+  opacity: 80%;
+  padding: 10px;
   position: absolute;
   top: 0;
   z-index: 1;
